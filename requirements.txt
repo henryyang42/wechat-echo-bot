@@ -1,0 +1,3 @@
+Flask==0.12
+wechatpy==1.4.1
+cryptography==1.9
